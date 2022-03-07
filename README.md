@@ -7,6 +7,16 @@ Robin's web app is looking good and functioning well, but she wants to add more 
 
 ## Results: 
 ### Scrape Full-Resolution Mars Hemisphere Images and Titles
+
+At first I wrote code to use my  browser to visit the Mars Hemispheres website to view the hemisphere images 
+![website_visit](https://github.com/NishatSultana3538/Mission-to-Mars/blob/main/images/hemisphere%20images_Mars_website.png)
+
+when I print the list of dictionary items I got the following url
+
+![hemisphere_image_url](https://github.com/NishatSultana3538/Mission-to-Mars/blob/main/images/hemisphere_image_url.png)
+
+
+
 Using the [Mission_to_Mars_Challenge.ipynb](https://github.com/NishatSultana3538/Mission-to-Mars/blob/main/Mission_to_Mars_Challenge.ipynb), [app.py](https://github.com/NishatSultana3538/Mission-to-Mars/blob/main/app.py), [sraping.py](https://github.com/NishatSultana3538/Mission-to-Mars/blob/main/scraping.py) and [index.html](https://github.com/NishatSultana3538/Mission-to-Mars/blob/main/templates/index.html)  I got the following webpage that has the full-resolution images and the titles of the four hemisphere images as below image:
 
 ![hemisphere_image](https://github.com/NishatSultana3538/Mission-to-Mars/blob/main/images/Mars_hemisphere.png)
