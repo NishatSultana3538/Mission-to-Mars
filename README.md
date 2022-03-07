@@ -15,6 +15,9 @@ After updating the html file I got following image:
 
 ![webpage_image](https://github.com/NishatSultana3538/Mission-to-Mars/blob/main/images/Mission_to_Mars.png)
 
+I change html file to make the website is mobile-responsive. I use the DevTools to test the responsiveness of my website and got the following image:
+
+![mobile_responsive](https://github.com/NishatSultana3538/Mission-to-Mars/blob/main/images/mobile_responsive.png)
 
 
 
