@@ -11,34 +11,14 @@ Using the [Mission_to_Mars_Challenge.ipynb](https://github.com/NishatSultana3538
 
 ![hemisphere_image](https://github.com/NishatSultana3538/Mission-to-Mars/blob/main/images/Mars_hemisphere.png)
 
-After updating the html file html file I got following image:
+After updating the html file I got following image:
 
 ![webpage_image](https://github.com/NishatSultana3538/Mission-to-Mars/blob/main/images/Mission_to_Mars.png)
 
 
 
 
-[SurfsUp_Challenge]() I got the following  data 
 
-![December_data]()
-
-
-
-
-### Summary:
-
- T
-![additional _query]()
-
-
-* June precipitation data
-
- ![June-prcp]()
-
-
-* December precipitation data
-
-![December_prcp]()
 
 
 
